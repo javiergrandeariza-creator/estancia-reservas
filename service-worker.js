@@ -1,4 +1,4 @@
-const CACHE_NAME = 'estancia-shell-v2';
+const CACHE_NAME = 'estancia-shell-v3';
 const APP_FILES = [
   './',
   './index.html',
